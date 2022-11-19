@@ -14,19 +14,19 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-# Reason for creating a project.
-> The reason why I planned this project is part of the process of getting to know more about React.
-> I also learned and applied many React libraries.
-> Through this project, we were able to take a step further from React.
+# 소개
+> 이 클론코딩 강의를 통해 React에 한 발자국 나아갈수 있었습니다.
+> 자바스크립트 라이브러리의 중요성을 알게되었고, 응용을 할수 있게 되었습니다.
+> 또한 앞으로 실무에서 사용될 Typescript를 공부 하였습니다.
 
-## Pre-Run Settings
+## 실행 전 세팅
 ```
 $ npm init
 $ ~
 ...
 ```
 
-## Run
+## 실행
 ```
 $ npm run dev
 $ yarn run dev
