@@ -1,4 +1,3 @@
-![image](https://ifh.cc/g/S3dTmS.png)
 
 이것은 **[Next.js](https://nextjs.org/)** 라이브러리를 사용하였고 **[React](https://ko.reactjs.org/)** 기반으로 작성되었음을 알립니다.
 
