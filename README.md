@@ -4,15 +4,15 @@ This is the Next.js project and consists of React.
 
 ## Pre-Run Settings
 ```
-npm init
-~
+$ npm init
+$ ~
 ...
 ```
 
 ## Run
 ```
-npm run dev
-yarn run dev
+$ npm run dev
+$ yarn run dev
 ```
 
 ## Directory
