@@ -1,5 +1,5 @@
 # Description
-This is the Next.js project and consists of React.
+This is the **Next.js** project and consists of **React**.
 [React](https://ko.reactjs.org/), [Next.js](https://nextjs.org/)
 
 ## Pre-Run Settings
