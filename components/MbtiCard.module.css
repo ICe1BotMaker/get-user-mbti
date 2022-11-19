@@ -1,0 +1,103 @@
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card {
+    --card-height: 70vh;
+    --card-width: 300px;
+}
+
+.card {
+    z-index: 10;
+    margin: 0 auto;
+    width: 300px;
+    height: 70vh;
+    padding: 3px;
+    position: relative;
+    border-radius: 6px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 1.5em;
+    color: rgb(88 199 250 / 0%);
+    cursor: pointer;
+}
+
+.card::before {
+    z-index: -1;
+    content: '';
+    width: 104%;
+    height: 102%;
+    border-radius: 8px;
+    background: linear-gradient(var(--rotate), #5ddcff, #3c67e3 43%, #4e00c2);
+    position: absolute;
+    top: -1%;
+    left: -2%;
+    animation: spin 2.5s linear infinite;
+}
+
+.card::after {
+    position: absolute;
+    content: '';
+    top: calc(70vh / 6);
+    left: 0;
+    right: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    transform: scale(0.8);
+    filter: blur(calc(70vh / 6));
+    background-image: linear-gradient(var(--rotate), #5ddcff, #3c67e3 43%, #4e00c2);
+    opacity: 1;
+    transition: opacity 0.5s;
+    animation: spin 2.5s linear infinite;
+}
+
+@keyframes spin {
+    0% { --rotate: 0deg; }
+    100% { --rotate: 360deg; }
+}
+
+.image-wrapper {
+    width: 50%;
+}
+
+.image-wrapper img {
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.name {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.keyword {
+    color: #effdff;
+    font-size: 16px;
+}
+
+.description {
+    padding: 30px;
+    font-size: 14px;
+    color: #b0c3fe;
+}
+
+.button {
+    margin: 20px;
+    z-index: 10;
+}
