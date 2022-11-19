@@ -1,5 +1,5 @@
 
-이것은 **[TypeScript](https://www.typescriptlang.org/)**와 **[React](https://ko.reactjs.org/)**를 사용해 작성되었음을 알립니다.
+이것은 **[TypeScript](https://www.typescriptlang.org/)** 와 **[React](https://ko.reactjs.org/)** 를 사용해 작성되었음을 알립니다.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
