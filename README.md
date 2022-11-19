@@ -1,4 +1,3 @@
-# ICe1 / GET USER MBTI ( get user mbti )
 ![Image](https://avatars.githubusercontent.com/u/98827759?v=4)
 
 This is the **[Next.js](https://nextjs.org/)** project and consists of **[React](https://ko.reactjs.org/)**.
