@@ -1,5 +1,5 @@
 
-이것은 **[Next.js](https://nextjs.org/)** 라이브러리를 사용하였고 **[React](https://ko.reactjs.org/)** 기반으로 작성되었음을 알립니다.
+이것은 **[TypeScript](https://www.typescriptlang.org/)**와 **[React](https://ko.reactjs.org/)**를 사용해 작성되었음을 알립니다.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,9 +14,13 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 # 소개
-> 이 클론코딩 강의를 통해 React에 한 발자국 나아갈수 있었습니다.
+> 클론코딩 강의를 통해 React에 한 발자국 나아갈수 있었습니다.
 > 자바스크립트 라이브러리의 중요성을 알게되었고, 응용을 할수 있게 되었습니다.
 > 또한 앞으로 실무에서 사용될 Typescript를 공부 하였습니다.
+
+# 프로젝트 기획
+> 강사 선생님께서 MBTI로 자신의 히어로를 찾는 프로젝트를 설명하셨습니다.
+> 위 언어와 라이브러리를 사용하여 5주동안 천천히 제작하였습니다.
 
 ## 실행 전 세팅
 ```
