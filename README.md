@@ -2,7 +2,11 @@
 This is the **Next.js** project and consists of **React**.
 [React](https://ko.reactjs.org/), [Next.js](https://nextjs.org/)
 
-![image](https://img.shields.io/badge/-NextJS-skyblue)
+![image](https://img.shields.io/badge/-NextJS-red)
+![image](https://img.shields.io/badge/-React-orange)
+![image](https://img.shields.io/badge/-CssModule-yellow)
+![image](https://img.shields.io/badge/-Firebase-green)
+![image](https://img.shields.io/badge/-Jotai-blue)
 
 # 
 
