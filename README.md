@@ -14,7 +14,8 @@ This is the **[Next.js](https://nextjs.org/)** project and consists of **[React]
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-# 
+# Reason for creating a project.
+> The reason why I planned this project is part of the process of getting to know more about React.
 
 ## Pre-Run Settings
 ```
