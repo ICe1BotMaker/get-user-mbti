@@ -17,12 +17,12 @@ yarn run dev
 
 ## Directory
 * MBTI FRONTEND
- * apis
- * components
- * pages
- * public
- * store
- * styles
- * types
- * utils
- * ...
+  * apis
+  * components
+  * pages
+  * public
+  * store
+  * styles
+  * types
+  * utils
+   * ...
