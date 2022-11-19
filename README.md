@@ -1,6 +1,6 @@
 ![image](https://ifh.cc/g/S3dTmS.png)
 
-This is the **[Next.js](https://nextjs.org/)** project and consists of **[React](https://ko.reactjs.org/)**.
+이것은 **[Next.js](https://nextjs.org/)** 라이브러리를 사용하였고 **[React](https://ko.reactjs.org/)** 기반으로 작성되었음을 알립니다.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,15 +31,3 @@ $ ~
 $ npm run dev
 $ yarn run dev
 ```
-
-## Directory
-* MBTI FRONTEND
-  * apis
-  * components
-  * pages
-  * public
-  * store
-  * styles
-  * types
-  * utils
-   * ...
