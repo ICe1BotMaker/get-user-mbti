@@ -16,6 +16,8 @@ This is the **[Next.js](https://nextjs.org/)** project and consists of **[React]
 
 # Reason for creating a project.
 > The reason why I planned this project is part of the process of getting to know more about React.
+> I also learned and applied many React libraries.
+> Through this project, we were able to take a step further from React.
 
 ## Pre-Run Settings
 ```
