@@ -1,5 +1,3 @@
-![Image](https://avatars.githubusercontent.com/u/98827759?v=4)
-
 This is the **[Next.js](https://nextjs.org/)** project and consists of **[React](https://ko.reactjs.org/)**.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
