@@ -13,11 +13,13 @@ $ ~
 ...
 ```
 
+
 ## Run
 ```
 $ npm run dev
 $ yarn run dev
 ```
+
 
 ## Directory
 * MBTI FRONTEND
