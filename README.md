@@ -19,8 +19,6 @@ This is the **[Next.js](https://nextjs.org/)** project and consists of **[React]
 > I also learned and applied many React libraries.
 > Through this project, we were able to take a step further from React.
 
-
-
 ## Pre-Run Settings
 ```
 $ npm init
@@ -28,13 +26,11 @@ $ ~
 ...
 ```
 
-
 ## Run
 ```
 $ npm run dev
 $ yarn run dev
 ```
-
 
 ## Directory
 * MBTI FRONTEND
