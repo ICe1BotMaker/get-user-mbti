@@ -13,9 +13,12 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 # Introduce
-> I was able to take a step forward in React through the Clone Coding class.
-> I learned the importance of JavaScript library and now I can apply it.
-> Also, I studied the type script that will be used in practice in the future.
+
+I was able to take a step forward in React through the Clone Coding class.
+
+I learned the importance of JavaScript library and now I can apply it.
+
+Also, I studied the type script that will be used in practice in the future.
 
 The instructor explained the project to find his hero with MBTI.
 
